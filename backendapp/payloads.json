@@ -1,0 +1,69 @@
+// customer id 
+// #  6199e0c1b2a1c849785e2131
+{
+	"name": "Customer One",
+	"usertype": 1,
+	"email": "customer1@gmail.com",
+	"password": "123456"
+}
+
+{
+  "name": "customer two",
+  "usertype": 1,
+  "email": "customer2@gmail.com",
+  "password": "123456"
+}
+
+
+{
+  "name": "meter operator",
+  "usertype": 2,
+  "email": "meter-operator@gmail.com",
+  "password": "123456"
+}
+
+{
+	"name": "finance operator",
+	"usertype": 3,
+	"email": "finance-operator@gmail.com",
+	"password": "123456"
+}
+
+customerid, reading, meterid
+{
+	"customerid": "finance operator",
+	"meterid": 3,
+	"reading": "finance-operator@gmail.com"
+}
+
+# customer1
+{
+  "user": "619ba680bdfc9849ba8db413",
+  "customerid": "619ba619bdfc9849ba8db411",
+	"meterids": "000111AAA, 000111AAB"
+}
+
+# customer1
+{
+  "user": "619ba680bdfc9849ba8db413",
+  "customerid": "619ba677bdfc9849ba8db412",
+	"meterids": "000222AAA, 000222AAB"
+}
+
+billId, 
+
+operatorId, 
+
+reading, duedate
+{
+  "reading": "6199e0c1b2a1c849785e2131",
+	"duedate": "2021/25/11"
+}
+
+billId, paymentMethod, amount, date, otp
+{
+  "billingid": "6199e0c1b2a1c849785e2131",
+  "paymentmethod": "6199e0c1b2a1c849785e2131",
+	"amount": "2021/25/11"
+}
+
